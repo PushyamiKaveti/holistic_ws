@@ -13,3 +13,12 @@
 [submodule "src/kindr_ros"]
 	path = src/kindr_ros
 	url = https://github.com/PushyamiKaveti/kindr_ros.git
+[submodule "src/atn_leica_position_graph"]
+	path = src/atn_leica_position_graph
+	url = https://github.com/aithon-robotics/atn_leica_position_graph.git
+[submodule "src/atn_leica_timesync"]
+	path = src/atn_leica_timesync
+	url = https://github.com/aithon-robotics/atn_leica_timesync.git
+[submodule "src/kindr"]
+	path = src/kindr
+	url = https://github.com/leggedrobotics/kindr.git
