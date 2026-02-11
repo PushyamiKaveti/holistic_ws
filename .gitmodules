@@ -10,3 +10,6 @@
 [submodule "src/elevation_mapping"]
 	path = src/elevation_mapping
 	url = https://github.com/PushyamiKaveti/elevation_mapping.git
+[submodule "src/kindr_ros"]
+	path = src/kindr_ros
+	url = https://github.com/PushyamiKaveti/kindr_ros.git
