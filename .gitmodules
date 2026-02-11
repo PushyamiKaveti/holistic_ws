@@ -4,3 +4,6 @@
 [submodule "src/grid_map"]
 	path = src/grid_map
 	url = https://github.com/PushyamiKaveti/grid_map.git
+[submodule "src/holistic_fusion"]
+	path = src/holistic_fusion
+	url = https://github.com/PushyamiKaveti/holistic_fusion.git
