@@ -7,3 +7,6 @@
 [submodule "src/holistic_fusion"]
 	path = src/holistic_fusion
 	url = https://github.com/PushyamiKaveti/holistic_fusion.git
+[submodule "src/elevation_mapping"]
+	path = src/elevation_mapping
+	url = https://github.com/PushyamiKaveti/elevation_mapping.git
